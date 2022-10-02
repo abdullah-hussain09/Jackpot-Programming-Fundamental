@@ -1,4 +1,4 @@
-# Jackpot-Programming-Fundamental
+# Jackpot-Data-Structure-And-Algorithm
 
 # How to create a jackpot game in C++
 So today when I was tweaking with random function in C++, I ended up to the idea of making a 3 figures jackpot game. Its as simple as it is sounding. All I did was, seeded and randomized 3 numbers (0,1,2) three times and stored them in three different variables and then I compared all the values separately to check whether I won or lost.
